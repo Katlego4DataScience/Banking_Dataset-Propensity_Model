@@ -1,4 +1,4 @@
-# Banking_DM_DATASCIENCE
+# Banking_Dataset-Propensity_Model
 This GitHub repository will serve as a home for my personal projects, explorations, and contributions to the banking direct marketing data science community. I look forward to connecting with fellow data enthusiasts and collaborating on exciting challenges!
 
 -----
